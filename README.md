@@ -6,25 +6,6 @@ FastAPI-based REST API for accessing historical stock market data stored in Post
 
 
 
-\## Features
-
-
-
-\- RESTful API design with automatic OpenAPI documentation
-
-\- PostgreSQL database integration
-
-\- Pydantic models for request/response validation
-
-\- Environment-based configuration
-
-\- Health check endpoint
-
-
-
-\## Tech Stack
-
-
 
 \- \*\*FastAPI\*\* - Modern Python web framework
 
@@ -177,22 +158,6 @@ Health check endpoint
 }
 
 ```
-
-
-
-\## Development Status
-
-
-
-🚧 \*\*In Progress\*\* - Currently implementing additional endpoints for:
-
-\- Individual ticker data retrieval
-
-\- Date range filtering
-
-\- Daily statistics calculation
-
-
 
 \## Project Context
 
