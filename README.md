@@ -7,13 +7,13 @@ FastAPI-based REST API for accessing historical stock market data stored in Post
 
 
 
-\- \*\*FastAPI\*\* - Modern Python web framework
+FastAPI - Modern Python web framework
 
-\- \*\*PostgreSQL\*\* - Database (AWS RDS)
+PostgreSQL - Database (AWS RDS)
 
-\- \*\*Pydantic\*\* - Data validation
+Pydantic - Data validation
 
-\- \*\*uvicorn\*\* - ASGI server
+uvicorn - ASGI server
 
 
 
